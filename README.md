@@ -21,6 +21,19 @@ A hands-on notebook series for building RAG pipelines and GenAI applications wit
 ## Setup
 
 **Prerequisites:** Python 3.11+, OpenAI API key
+Create a virtual env with uv:
+
+Intall uv package
+https://docs.astral.sh/uv/getting-started/installation/
+
+Use curl to download the script and execute it with sh:
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+virtual env
+```bash
+uv venv venv
+```
 
 ```bash
 pip install -r requirements.txt
