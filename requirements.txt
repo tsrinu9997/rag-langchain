@@ -122,3 +122,4 @@ aiohttp
 tqdm
 jq
 unstructured
+langchain-google-genai
