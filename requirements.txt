@@ -123,3 +123,6 @@ tqdm
 jq
 unstructured
 langchain-google-genai
+arxiv
+wikipedia
+tavily-python
