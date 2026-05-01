@@ -126,3 +126,4 @@ langchain-google-genai
 arxiv
 wikipedia
 tavily-python
+langchain-ollama
